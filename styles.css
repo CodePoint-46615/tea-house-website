@@ -7,4 +7,9 @@
   font-style: normal;
 }
 
+button:hover{
+  cursor: pointer;
+}
+
 @import "tailwindcss"
+
